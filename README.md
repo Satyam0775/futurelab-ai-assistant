@@ -2,6 +2,13 @@
 
 > A production-ready customer-facing AI chatbot for Futurelab Studios — built with FastAPI + React + Vite.
 
+## 🚀 Live Demo
+
+- 🌐 **Frontend (Vercel):**  
+  https://futurelabassistant.vercel.app/
+
+- ⚙️ **Backend API (Render):**  
+  https://futurelab-ai-assistant-i3fz.onrender.com
 ---
 
 ## Overview
