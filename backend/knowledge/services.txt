@@ -1,0 +1,79 @@
+FUTURELAB STUDIOS — SERVICES
+==============================
+
+Futurelab Studios provides AI services focused on real-world implementation
+and measurable business impact. All solutions prioritize clarity, usability,
+and practical deployment over experimental or hype-driven approaches.
+
+─────────────────────────────────────────
+SERVICE 1: AI CONSULTING & STRATEGY
+─────────────────────────────────────────
+Help organizations identify where AI fits and how to adopt it effectively.
+
+Includes:
+  - Identifying AI opportunities within your business
+  - Designing a structured AI adoption roadmap
+  - Aligning AI initiatives with business goals
+  - Risk assessment and responsible AI planning
+
+Best for: Leadership teams, decision-makers, organizations new to AI.
+
+─────────────────────────────────────────
+SERVICE 2: WORKFLOW AUTOMATION
+─────────────────────────────────────────
+Streamline operations by automating repetitive tasks using AI.
+
+Includes:
+  - Mapping and automating repetitive business processes
+  - Improving team productivity using intelligent AI tools
+  - Building end-to-end automated workflows
+  - Integration with existing tools and systems
+
+Best for: Operations teams, scaling businesses, productivity-focused organizations.
+
+─────────────────────────────────────────
+SERVICE 3: CUSTOM AI TOOLS DEVELOPMENT
+─────────────────────────────────────────
+Build AI-powered tools tailored to specific business needs.
+
+Includes:
+  - Customer support chatbots
+  - Voice-based AI agents for real-time interaction
+  - Retrieval-Augmented Generation (RAG) systems
+  - Internal knowledge assistants for teams
+  - Document intelligence and search tools
+
+Best for: Customer-facing teams, internal operations, knowledge-heavy organizations.
+
+─────────────────────────────────────────
+SERVICE 4: AI PRODUCT DEVELOPMENT
+─────────────────────────────────────────
+Build and launch AI-powered software products from concept to deployment.
+
+Includes:
+  - AI-powered SaaS product development
+  - Integrating AI capabilities into existing platforms
+  - Scalable AI architecture design
+  - MVP to full product development
+
+Best for: Founders, product teams, startups building AI-first products.
+
+─────────────────────────────────────────
+SERVICE 5: FRACTIONAL CTO SERVICES
+─────────────────────────────────────────
+Part-time technical leadership for organizations without a full-time CTO.
+
+Includes:
+  - AI architecture guidance
+  - Product and technology strategy
+  - Technical team oversight
+  - Helping teams execute AI roadmaps
+
+Best for: Early-stage startups, SMEs, organizations scaling their tech function.
+
+─────────────────────────────────────────
+OVERALL APPROACH
+─────────────────────────────────────────
+Futurelab focuses on usability, scalability, and real-world deployment.
+Every solution is designed to integrate smoothly into existing workflows
+and deliver measurable business value from day one.

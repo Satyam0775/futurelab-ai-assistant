@@ -1,0 +1,87 @@
+FUTURELAB STUDIOS — WORKSHOPS & TRAINING PROGRAMS
+===================================================
+
+Futurelab Studios conducts hands-on AI enablement workshops designed to build
+genuine confidence and practical skills — not just theoretical awareness.
+
+All programs prioritize real-world use cases, interactive sessions, and
+guided implementation rather than lecture-based instruction.
+
+─────────────────────────────────────────
+PROGRAM 1: AI ESSENTIALS (BEGINNER)
+─────────────────────────────────────────
+For individuals and teams new to AI.
+
+What's covered:
+  - Introduction to AI tools and concepts
+  - Practical everyday use cases across functions
+  - Safe, responsible, and effective AI usage
+  - Hands-on exercises with popular AI tools
+
+Outcome:
+  Participants leave comfortable using AI in their daily work.
+
+Best for: All team members, non-technical staff, first-time AI users.
+
+─────────────────────────────────────────
+PROGRAM 2: AI FOR TEAMS (INTERMEDIATE)
+─────────────────────────────────────────
+For teams ready to integrate AI into their workflows.
+
+What's covered:
+  - Embedding AI into business workflows
+  - Automation use cases for real business tasks
+  - Productivity enhancement strategies
+  - Team collaboration with AI tools
+
+Outcome:
+  Teams develop a shared AI capability and operational efficiency.
+
+Best for: Functional teams, department heads, mid-level professionals.
+
+─────────────────────────────────────────
+PROGRAM 3: AI BUILDER PROGRAMS (ADVANCED)
+─────────────────────────────────────────
+For builders, technical leads, and innovation teams.
+
+What's covered:
+  - Build real AI tools from scratch
+  - Create chatbots and automation systems
+  - Work on real business problem statements
+  - Prototype and deploy working AI solutions
+
+Outcome:
+  Participants leave with a working AI solution built during the program.
+
+Best for: Developers, product managers, innovation leads, tech-savvy professionals.
+
+─────────────────────────────────────────
+PROGRAM 4: FUNCTION-SPECIFIC WORKSHOPS
+─────────────────────────────────────────
+Tailored sessions for specific business functions.
+
+Available tracks:
+  - AI for Marketing — content creation, personalization, campaign automation
+  - AI for Sales — lead qualification, outreach, pipeline intelligence
+  - AI for Operations — process automation, reporting, workflow efficiency
+  - AI for HR — talent screening, onboarding, people analytics
+
+Outcome:
+  Teams gain function-specific AI skills directly applicable to their role.
+
+Best for: Department-specific training needs, focused skill development.
+
+─────────────────────────────────────────
+WORKSHOP APPROACH
+─────────────────────────────────────────
+  - Hands-on learning with real tools
+  - Real-world examples and business scenarios
+  - Interactive and collaborative sessions
+  - Practical take-home implementation guides
+  - Follow-up support where applicable
+
+─────────────────────────────────────────
+OVERALL GOAL
+─────────────────────────────────────────
+To help individuals and organizations become confident, capable, and
+independent in using AI effectively in their work — not just aware of it.
